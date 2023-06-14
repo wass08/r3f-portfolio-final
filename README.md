@@ -1,4 +1,4 @@
-![Thumbnail video tutorial](https://github.com/wass08/r3f-portfolio-scroll-animations/assets/6551176/3afa55c2-5176-431c-8813-46fcf98f3aa6)
+![Thumbnail video tutorial](https://github.com/wass08/r3f-portfolio-final/assets/6551176/10e190aa-de14-4f34-a6e7-fca23b73bb15)
 
-[Video tutorial](https://youtu.be/0e0J0mmvr1k)
+[Video tutorial](https://youtu.be/LooODvrYXzE)
 
