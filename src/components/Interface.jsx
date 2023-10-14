@@ -300,6 +300,21 @@ const ContactSection = () => {
             Submit
           </button>
         </form>
+      
+        <div className="flex justify-left mt-9">
+              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+                <img src="projects/github.png" alt="Github" className="w-15 h-12" />
+              </a>
+              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+                <img src="projects/linkedin.png" alt="LinkedIn" className="w-15 h-12" />
+              </a>
+              <a href="https://medium.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+                <img src="projects/medium.png" alt="Medium" className="w-15 h-12" />
+              </a>
+              <a href="https://www.behance.net" target="_blank" rel="noopener noreferrer" className="mr-4">
+                <img src="projects/behance.png" alt="Behance" className="w-15 h-12" />
+              </a>
+            </div>
       </div>
     </Section>
   );
